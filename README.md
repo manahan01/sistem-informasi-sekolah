@@ -8,11 +8,11 @@
 	- composer install
 	- php artisan optimize:clear
 	- php artisan key:generate
-4. Periksa kembali setting MongoDB apa sudah sesuai atau belum:
+4. Periksa kembali setting mongoDB apa sudah sesuai atau belum:
   - Periksa providers di config/app.php (Jenssegers\Mongodb\MongodbServiceProvider::class,)
   - Periksa database mongoDB apakah sudah terdaftar di config/database.php 
   - Periksa environment (.env) apakah sudah menggunakan database mongoDB
-5. Instal dan lakukan regis pada Postman Desktop
+5. Instal dan lakukan regis pada postman desktop
 6. Ketik command dibawah ini:
     - php artisan migrate (migrasi database)
     - php artisan db:seed
