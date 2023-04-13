@@ -1,7 +1,7 @@
 # Project
  Aplikasi back-end sistem informasi penilaian sekolah menggunakan framework laravel dan mongoDB.
 
-# Setup
+# Instalasi
 1. Buka direktori project di terminal anda.
 2. Ketik command : copy .env.example .env (copas di terminal).
 3. Ketik command dibawah ini:
