@@ -1,5 +1,5 @@
 # Project
- Aplikasi back-end Sistem Informasi Penilaian Sekolah menggunakan framework Laravel dan Penyimpanan MongoDB.
+ Aplikasi back-end sistem informasi penilaian sekolah menggunakan framework laravel dan mongoDB.
 
 # Setup
 1. Buka direktori project di terminal anda.
